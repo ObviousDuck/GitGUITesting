@@ -2,7 +2,9 @@
 <SCHEDULE>
  <City>
     <Station>
-        <Time></Time>
+        <Time>
+            Branch 1
+        </Time>
     </Station>
  </City>
 </SCHEDULE>
